@@ -1,0 +1,9 @@
+('There', '2', 'expl')
+('was', '0', 'root')
+('thin', '4', 'amod')
+('crop', '2', 'nsubj')
+('in', '7', 'case')
+('the', '7', 'det')
+('garden', '4', 'nmod')
+('.', '2', 'punct')
+None 0

@@ -1,0 +1,2 @@
+1)java -mx8g -cp "*" edu.stanford.nlp.pipeline.StanfordCoreNLPServer -port 9000 -timeout 15000
+2)C:\Users\danie\Documents\CSE 4100 4200\Abstract\stanford-corenlp-full-2018-10-05

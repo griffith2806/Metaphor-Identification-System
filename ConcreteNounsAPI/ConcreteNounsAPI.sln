@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29911.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConcreteNounsAPI", "ConcreteNounsAPI\ConcreteNounsAPI.csproj", "{DA9703DF-274E-4BD4-BB4D-7DA37ED9942A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA9703DF-274E-4BD4-BB4D-7DA37ED9942A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA9703DF-274E-4BD4-BB4D-7DA37ED9942A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA9703DF-274E-4BD4-BB4D-7DA37ED9942A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA9703DF-274E-4BD4-BB4D-7DA37ED9942A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {66F6916B-2720-4A7D-B823-06B1E191B550}
+	EndGlobalSection
+EndGlobal
