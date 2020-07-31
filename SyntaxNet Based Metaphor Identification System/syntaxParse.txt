@@ -1,0 +1,9 @@
+1	John	_	PROPN	NNP	Number=Sing|fPOS=PROPN++NNP	2	nsubj	_	_
+2	said	_	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin|fPOS=VERB++VBD	0	ROOT	_	_
+3	that	_	SCONJ	IN	fPOS=SCONJ++IN	9	mark	_	_
+4	it	_	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs|fPOS=PRON++PRP	9	nsubj	_	_
+5	is	_	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|fPOS=VERB++VBZ	9	cop	_	_
+6	a	_	DET	DT	Definite=Ind|PronType=Art|fPOS=DET++DT	9	det	_	_
+7	very	_	ADV	RB	fPOS=ADV++RB	8	advmod	_	_
+8	small	_	ADJ	JJ	Degree=Pos|fPOS=ADJ++JJ	9	amod	_	_
+9	world.	_	NOUN	NN	Number=Sing|fPOS=NOUN++NN	2	ccomp	_	_

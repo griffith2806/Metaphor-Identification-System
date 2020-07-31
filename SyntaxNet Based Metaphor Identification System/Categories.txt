@@ -1,0 +1,13 @@
+Food
+Body
+Plant 
+Animal
+Artifact
+Person
+Group
+Object
+State
+Substance 
+Shape
+Time 
+Location

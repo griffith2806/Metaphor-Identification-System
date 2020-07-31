@@ -1,0 +1,13 @@
+("'", '11', 'punct')
+('What', '5', 'det')
+('a', '5', 'det')
+('bright', '5', 'amod')
+('student', '11', 'ccomp')
+('!', '11', 'punct')
+("'", '11', 'punct')
+(',', '11', 'punct')
+('the', '10', 'det')
+('teacher', '11', 'nsubj')
+('said', '0', 'root')
+('.', '11', 'punct')
+None 0
